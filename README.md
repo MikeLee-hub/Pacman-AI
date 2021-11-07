@@ -1,4 +1,6 @@
 # CSE4185 Assignment02: Pacman
+Sogang Univ. 2021-2 기초인공지능 과제2
+
 
 ## Implement:
 Minimax, Alpha-beta Pruning, Expectimax를 활용한 Multi-Agent 구현하기 
